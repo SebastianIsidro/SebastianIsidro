@@ -1,10 +1,10 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<h2 text-align="center">👋 Hola, soy Sebastian Isidro</h2>
+<h2 align="center">¡Hola! 👋 - Soy Sebastian Isidro</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
