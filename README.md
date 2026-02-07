@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/74cc7477-c380-4259-b859-83878e504e1e" />
 
 <h2 align="center">¡Hola! 👋 - Soy Sebastian Isidro</h2>
 
