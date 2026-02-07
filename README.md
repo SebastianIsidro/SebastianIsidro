@@ -1,6 +1,6 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/74cc7477-c380-4259-b859-83878e504e1e" />
-
 <h2 align="center">¡Hola! 👋 - Soy Sebastian Isidro</h2>
+
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/74cc7477-c380-4259-b859-83878e504e1e" />
 
 ### Sobre mí
 
