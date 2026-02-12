@@ -4,9 +4,9 @@
 
 ### [😀] Sobre mí
 
-- 🎓 Soy técnico en Computación e Informática
+- 💻 Soy un Desarrollador Full Stack
+- 🎓 Estudié Computación e Informática
 - 💡 Tengo conocimientos en Programación Web y Móvil
-- 🛠️ Apasionado por el Desarrollo Full Stack
 
 ### Tech Stack
 
