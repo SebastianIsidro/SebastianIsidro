@@ -1,6 +1,6 @@
-<h2 align="center">¡Hola! 👋 - Soy DevAstian</h2>
-
 <img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/75516266-eb68-4233-adc4-bbb5b0951ddd" />
+
+<h2 align="center">¡Hola! 👋 - Soy DevAstian</h2>
 
 ### Sobre mí
 
