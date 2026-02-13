@@ -47,19 +47,19 @@
   <img alt="Swagger"            src="https://img.shields.io/badge/Swagger-47ff54?style=for-the-badge&logo=swagger&logoColor=47ff54&labelColor=282828" />
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### [📞] Contacto
 
 <p align="center">
-<a href="https://linkedin.com/in/sebastianisidro"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fc342d?style=for-the-badge&logo=sqlserver&logoColor=fc342d&labelColor=282828" /></a>
-<a href="mailto:sa.isidroprado@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=282828"/></a>
+<a href="https://linkedin.com/in/sebastianisidro"><img alt="LinkedIn" src="https://img.shields.io/badge/in-LinkedIn-3282bf?style=for-the-badge&logo=linkedin&logoColor=3282bf&labelColor=282828" /></a>
+<a href="mailto:sa.isidroprado@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ed4c4c?style=for-the-badge&logo=gmail&logoColor=ed4c4c&labelColor=282828" /></a>
 </p>
 
 ### GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/SebastianIsidro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebastianIsidro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebastianIsidro&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
