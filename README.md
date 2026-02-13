@@ -13,37 +13,38 @@
 
 <h4>Front End</h4>
 <p>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Bootstrap-5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS-3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="Angular"    src="https://img.shields.io/badge/Angular-ff2b2b?style=for-the-badge&logo=angular&logoColor=ff2b2b&labelColor=282828" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-63a4ff?style=for-the-badge&logo=typescript&logoColor=63a4ff&labelColor=282828" />
+  <img alt="Bootstrap"  src="https://img.shields.io/badge/Bootstrap-9747ff?style=for-the-badge&logo=bootstrap&logoColor=9747ff&labelColor=282828" />
+  <img alt="HTML"       src="https://img.shields.io/badge/HTML-ff8640?style=for-the-badge&logo=html5&logoColor=ff8640&labelColor=282828" />
+  <img alt="CSS"        src="https://img.shields.io/badge/CSS-4060ff?style=for-the-badge&logo=css&logoColor=4060ff&labelColor=282828" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7de36?style=for-the-badge&logo=javascript&logoColor=f7de36&labelColor=282828" />
 </p>
 
 <h4>Back End</h4>
 <p>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="ASP.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-85eb52?style=for-the-badge&logo=spring&logoColor=85eb52&labelColor=282828" />
+  <img alt="Java"   src="https://img.shields.io/badge/Java-ff8d36?style=for-the-badge&logo=openjdk&logoColor=ff8d36&labelColor=282828" />
+  <img alt=".NET"   src="https://img.shields.io/badge/.NET-6735fc?style=for-the-badge&logo=.net&logoColor=6735fc&labelColor=282828" />
+  <img alt="C#"     src="https://img.shields.io/badge/C%23-C%23-81309c?style=for-the-badge&logo=c-sharp&logoColor=81309c&labelColor=282828" />
 </p>
 
 <h4>Base de Datos</h4>
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="SQL-Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img alt="MySQL"      src="https://img.shields.io/badge/MySQL-195482?style=for-the-badge&logo=mysql&logoColor=195482&labelColor=282828" />
+  <img alt="SQL-Server" src="https://img.shields.io/badge/SQL-SQL%20Server-fc342d?style=for-the-badge&logo=sqlserver&logoColor=fc342d&labelColor=282828" />
 </p>
 
 <h4>Herramientas</h4>
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img alt="Visual-Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-5895D1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-E44C30?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Git"                src="https://img.shields.io/badge/Git-ff583b?style=for-the-badge&logo=git&logoColor=ff583b&labelColor=282828" />
+  <img alt="GitHub"             src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=282828" />
+  <img alt="Eclipse"            src="https://img.shields.io/badge/Eclipse-5b4894?style=for-the-badge&logo=eclipse&logoColor=5b4894&labelColor=282828" />
+  <img alt="Visual-Studio"      src="https://img.shields.io/badge/VS-Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=282828" />
+  <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/VSC-Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=282828" />
+  <img alt="Docker"             src="https://img.shields.io/badge/Docker-3870ff?style=for-the-badge&logo=docker&logoColor=3870ff&labelColor=282828" />
+  <img alt="Postman"            src="https://img.shields.io/badge/Postman-ff7b47?style=for-the-badge&logo=postman&logoColor=ff7b47&labelColor=282828" />
+  <img alt="Swagger"            src="https://img.shields.io/badge/Swagger-47ff54?style=for-the-badge&logo=swagger&logoColor=47ff54&labelColor=282828" />
 </p>
 
 ### GitHub Analytics
