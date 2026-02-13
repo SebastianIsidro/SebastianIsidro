@@ -8,7 +8,7 @@
 - 🎓 Estudié Computación e Informática
 - 💡 Tengo conocimientos en Programación Web y Móvil
 
-### Tech Stack
+### [🛠️] Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
